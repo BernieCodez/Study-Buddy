@@ -1,0 +1,25 @@
+{
+  "luke": {
+    "password": "swanty",
+    "level": 1,
+    "xp": 2,
+    "points": 2600,
+    "buddy": {
+      "hat": "v",
+      "expression": "[\u2022\u203f\u2022]",
+      "item": "",
+      "unlocked": [
+        [
+          "v",
+          "Hats",
+          0
+        ],
+        [
+          "[\u2022\u203f\u2022]",
+          "Expressions",
+          0
+        ]
+      ]
+    }
+  }
+}

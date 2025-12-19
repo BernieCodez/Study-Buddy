@@ -1,0 +1,721 @@
+{
+    "Computer Science": {
+      "What is the definition of computing?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Doing anything with data",
+          "Processing data",
+          "Outputting data",
+          "Intaking data"
+        ],
+        "answer": "Doing anything with data",
+        "randomize": "True"
+      },
+      "\"Continuous data, usually a range\" is the definition of which term?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Analog",
+          "Digital",
+          "Physical",
+          "Binary"
+        ],
+        "answer": "Analog",
+        "randomize": "True"
+      },
+      "What is the correct sequence of a \"Process\"?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Fetch > Decide > Execute > Store",
+          "Store > Fetch > Decide > Execute",
+          "Decide > Execute > Store > Fetch",
+          "Fetch > Execute > Store > Decide"
+        ],
+        "answer": "Fetch > Decide > Execute > Store",
+        "randomize": "True"
+      },
+      "Which computer part is not necessary?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "GPU",
+        "randomize": "True"
+      },
+      "How do you increase transfer speed?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Switch hardware device to SSD",
+          "Switch hardware device to HDD",
+          "Change to cloud storage",
+          "Use wifi to transfer data"
+        ],
+        "answer": "Switch hardware device to SSD",
+        "randomize": "True"
+      },
+      "What does SSD stand for?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Solid state drive",
+        "randomize": "True"
+      },
+      "How many \"true\"s would result from A+B / A or B?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "3",
+        "randomize": "True"
+      },
+      "How many bits are in a byte?": {
+        "unit": "2",
+        "type": "FRQ",
+        "options": [],
+        "answer": "8",
+        "randomize": "True"
+      },
+      "What is the term for \"find patterns in data and represent it with a smaller version\"?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "Compression",
+          "Computation",
+          "Documentation",
+          "Resilience"
+        ],
+        "answer": "Compression",
+        "randomize": "True"
+      },
+      "How many bits are used to represent a single color?": {
+        "unit": "2",
+        "type": "FRQ",
+        "options": [],
+        "answer": "8",
+        "randomize": "True"
+      },
+      "A CPU processes data serially instead of in parallel like a GPU. What are the advantages of this?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "Slower",
+          "Cheaper",
+          "Complex",
+          "Faster"
+        ],
+        "answer": "Cheaper",
+        "randomize": "True"
+      },
+      "Which of the following terms fits the definition of \"the speed of data flow calculated in bits per seconds\"?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "Bitrate",
+          "Bandwidth",
+          "Latency",
+          "Ethernet"
+        ],
+        "answer": "Bitrate",
+        "randomize": "True"
+      },
+      "What does a modem stand for?": {
+        "unit": "2",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Modulator demodulator",
+        "randomize": "True"
+      },
+      "What is the difference between HTTPS and HTTP?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "HTTPS is secure",
+          "HTTPS is faster",
+          "They are the exact same, how web page requests are delivered",
+          "HTTP is more common"
+        ],
+        "answer": "HTTPS is secure",
+        "randomize": "True"
+      },
+      "The internet is the largest ___ (fill in the blank) on the planet.": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "WAN",
+          "LAN",
+          "DNS",
+          "TLS"
+        ],
+        "answer": "WAN",
+        "randomize": "True"
+      },
+      "Given a company needs a data transmission system for a video call app, which would they use?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "UDP",
+          "TCP",
+          "DHC",
+          "SQL"
+        ],
+        "answer": "UDP",
+        "randomize": "True"
+      },
+      "Which of the following are not a part of REST (Representation State Transfer)?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "Publish",
+          "Patch",
+          "Delete",
+          "Get"
+        ],
+        "answer": "Publish",
+        "randomize": "True"
+      },
+      "Why is redundancy so important in systems like sea cables or satellites?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "More resilient to damage",
+          "Duplicates become unused",
+          "Increases likelihood of failure",
+          "To make more complicated systems"
+        ],
+        "answer": "More resilient to damage",
+        "randomize": "True"
+      },
+      "Which of the following is the correct definition of normalization in databases?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "Spitting data tables into smaller tables to reduce errors and stay organized",
+          "Collection of data organized for a specific application",
+          "Process of returning something to its original state",
+          "Usage of queries to interact with data"
+        ],
+        "answer": "Spitting data tables into smaller tables to reduce errors and stay organized",
+        "randomize": "True"
+      },
+      "In a horizontal scaling database what gets added?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "Columns/fields",
+          "Rows/records",
+          "Input fields",
+          "Both fields and records"
+        ],
+        "answer": "Columns/fields",
+        "randomize": "True"
+      },
+      "If NoSQL gets info by key value what does SQL use to find data?": {
+        "unit": "2",
+        "type": "MCQ",
+        "options": [
+          "Indexes",
+          "IDs",
+          "Keys",
+          "Values"
+        ],
+        "answer": "Indexes",
+        "randomize": "True"
+      },
+      "How do you cast a string to an integer? (Remember to put parenthesis in your answer)": {
+        "unit": "4",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Int()",
+        "randomize": "True"
+      },
+      "Which of the following is NOT true about Python?": {
+        "unit": "4",
+        "type": "MCQ",
+        "options": [
+          "Code is compiled just like C++",
+          "Object oriented programming language",
+          "Interpreted language",
+          "Very beginner friendly"
+        ],
+        "answer": "Code is compiled just like C++",
+        "randomize": "True"
+      },
+      "How would you write 5 to the power of 8 in Python? (Typing eight '5's won't work)": {
+        "unit": "4",
+        "type": "FRQ",
+        "options": [],
+        "answer": "5**8",
+        "randomize": "True"
+      },
+      "How do you output \"Hello World\" to the console in Python?": {
+        "unit": "4",
+        "type": "MCQ",
+        "options": [
+          "print(\"Hello World\")",
+          "console.log(\"Hello World\");",
+          "cout<<\"Hello World\"<<endl;",
+          "System.out.println(\"Hello World\");"
+        ],
+        "answer": "print(\"Hello World\")",
+        "randomize": "True"
+      },
+      "Which symbol would result in the following condition being true: 18 __ 3 == 0?": {
+        "unit": "4",
+        "type": "MCQ",
+        "options": [
+          "%",
+          "//",
+          "*",
+          ">="
+        ],
+        "answer": "%",
+        "randomize": "True"
+      },
+      "Which of the following statements are NOT true for while loops?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "Executes until a condition is met (true)",
+          "Is dangerous because it can run infinitely",
+          "Requires a condition",
+          "Useful when the number of iterations is unknown"
+        ],
+        "answer": "Executes until a condition is met (true)",
+        "randomize": "True"
+      },
+      "In Python, lists are mutable. What definition best describes the word mutable?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "Modifiable after creation",
+          "Easy corruptible",
+          "Good for performance",
+          "Share similar values"
+        ],
+        "answer": "Modifiable after creation",
+        "randomize": "True"
+      },
+      "How do you define a function in Python?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "Def functionName()",
+          "Function functionName()",
+          "Void functionName()",
+          "functionName()"
+        ],
+        "answer": "Def functionName()",
+        "randomize": "True"
+      },
+      "What do you need to write before you can use print(random.random())?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "Import random",
+          "Import rand",
+          "Import all",
+          "From random import *"
+        ],
+        "answer": "Import random",
+        "randomize": "True"
+      },
+      "How do you get the index of element 'a' inside the list: l = ['a','b','c']?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "l.index('a')",
+          "l.find('a')",
+          "l.findIndex('a')",
+          "l[0]"
+        ],
+        "answer": "l.index('a')",
+        "randomize": "True"
+      },
+      "How do you get the first element from the list: l = []?": {
+        "unit": "5",
+        "type": "FRQ",
+        "options": [],
+        "answer": "L[0]",
+        "randomize": "True"
+      },
+      "What does following line of code output: print(range(1,5,1))?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "[1,2,3,4,5]",
+          "[0,1,2,3,4]",
+          "[1,2,3,4]",
+          "[1,3,5]"
+        ],
+        "answer": "[1,2,3,4,5]",
+        "randomize": "True"
+      },
+      "Which of the following is not a control statement?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "Brake",
+          "Continue",
+          "Pass",
+          "Else"
+        ],
+        "answer": "Brake",
+        "randomize": "True"
+      },
+      "Which of the following terms best matches this definition: text that allows readers to quickly figure out the purpose of an algorithm?": {
+        "unit": "5",
+        "type": "MCQ",
+        "options": [
+          "Documentation",
+          "Refactoring",
+          "Computation",
+          "Conditions"
+        ],
+        "answer": "Documentation",
+        "randomize": "True"
+      }
+    },
+    "Honors Chemistry": {
+      "Which of the following are NOT permitted in a laboratory setting?": {
+        "unit": "0",
+        "type": "MCQ",
+        "options": [
+          "Open-toed shoes",
+          "Safety goggles",
+          "Teacher permitted equipment",
+          "Hair ties"
+        ],
+        "answer": "Open-toed shoes",
+        "randomize": "True"
+      },
+      "Which of the following are used to measure the mass of an object?": {
+        "unit": "0",
+        "type": "MCQ",
+        "options": [
+          "Balance",
+          "Cylindar",
+          "Beaker",
+          "Ruler"
+        ],
+        "answer": "Balance",
+        "randomize": "True"
+      },
+      "Identify the change, physical or chemical: burning of wood?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Physical change",
+          "Chemical change",
+          "Neither",
+          "Both"
+        ],
+        "answer": "Chemical change",
+        "randomize": "True"
+      },
+      "Identify the change, physical or chemical: shredding paper?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Physical change",
+          "Chemical change",
+          "Neither",
+          "Both"
+        ],
+        "answer": "Physical change",
+        "randomize": "True"
+      },
+      "Identify the change, physical or chemical: cooking an egg?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Physical change",
+          "Chemical change",
+          "Neither",
+          "Both"
+        ],
+        "answer": "Chemical change",
+        "randomize": "True"
+      },
+      "Complete the sentence: the metric system is based on the power of ____?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "10",
+        "randomize": "True"
+      },
+      "How many millimeters are in 1 meter?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "1000",
+        "randomize": "True"
+      },
+      "Nano is equivalent to 10 to the power of what?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "-9",
+        "randomize": "True"
+      },
+      "Which term is determined by the following equation:  ___ =  mass/volume?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Density",
+          "Matter",
+          "Volume",
+          "Mass"
+        ],
+        "answer": "Density",
+        "randomize": "True"
+      },
+      "How many diatomic elements are there?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "7",
+        "randomize": "True"
+      },
+      "Matter can be classified as a substance or mixture. Which of the following is an example of a mixture?": {
+        "unit": "1",
+        "type": "MCQ",
+        "options": [
+          "Blood",
+          "Pure water",
+          "Baking Soda",
+          "Diamond"
+        ],
+        "answer": "Blood",
+        "randomize": "True"
+      },
+      "How many sigfigs are in the following number: 7,083,000?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "4",
+        "randomize": "True"
+      },
+      "How many sigfigs are in the following number: 3.030?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "4",
+        "randomize": "True"
+      },
+      "How many sigfigs should be in the resulting number if the equation were 56.78 x 2.45?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "3",
+        "randomize": "True"
+      },
+      "Rewriting the following number in scientific notation: 0.00000451 would result in 4.51 x 10 to the power of ____?": {
+        "unit": "1",
+        "type": "FRQ",
+        "options": [],
+        "answer": "-6",
+        "randomize": "True"
+      },
+      "Which term best fits the following definition: atoms of the same element with different numbers of neutrons?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Isotope",
+          "Ion",
+          "Neutral",
+          "Periodicity"
+        ],
+        "answer": "Isotope",
+        "randomize": "True"
+      },
+      "Periodicity is the repetition of patterns of physical and chemical properties used to place elements in the periodic table of elements. Which of the following is not a trend?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Room temperature state",
+          "Atomic number",
+          "Atomic radii",
+          "Ionization energy"
+        ],
+        "answer": "Room temperature state",
+        "randomize": "True"
+      },
+      "Energy levels are the certain number of electrons that can fit into each level. The first orbital can hold 8 electrons, the second orbital can hold 8 electrons, the third orbital can also hold 8 electrons, how many can the fourth orbital hold?": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "18",
+        "randomize": "True"
+      },
+      "What term best fits the following definition: the outermost shell of an atom?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Valence shell",
+          "Orbital",
+          "Energy level",
+          "Electron"
+        ],
+        "answer": "Valence shell",
+        "randomize": "True"
+      },
+      "Complete Avogadro's number ___ x 10 to the power of 23 (4 sig figs).": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "6.022",
+        "randomize": "True"
+      },
+      "Which of the following principles best fits this definition: when filling orbitals, electrons will choose to fill empty orbitals before pairing up?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Hund's Rule",
+          "Aufbau's Principle",
+          "Pauli's Exclusion Principle",
+          "Heinberg's Uncertainty Principle"
+        ],
+        "answer": "Hund's Rule",
+        "randomize": "True"
+      },
+      "Which of the following principles best fits this definition: when filling orbitals, electrons will choose to fill the lowest energy orbitals before the higher energy ones?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Hund's Rule",
+          "Aufbau's Principle",
+          "Pauli's Exclusion Principle",
+          "Heinberg's Uncertainty Principle"
+        ],
+        "answer": "Aufbau's Principle",
+        "randomize": "True"
+      },
+      "Is an Na atom going to lose or gain electrons?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Lose",
+          "Gain",
+          "Neither",
+          "Explode"
+        ],
+        "answer": "Lose",
+        "randomize": "True"
+      },
+      "Is hydrogen monoxide ionic or covalent?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Ionic",
+          "Covalent",
+          "Metallic",
+          "None of them"
+        ],
+        "answer": "Covalent",
+        "randomize": "True"
+      },
+      "Is sodium chloride ionic or covalent?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Ionic",
+          "Covalent",
+          "Metallic",
+          "None of them"
+        ],
+        "answer": "Ionic",
+        "randomize": "True"
+      },
+      "Which of the following molecule shapes match this ABE notation: AB2E2?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Bent",
+          "Trigonal Pyramidal",
+          "Trigonal Bipyramidal",
+          "Trigonal Planar"
+        ],
+        "answer": "Bent",
+        "randomize": "True"
+      },
+      "What is the bond angle of a molecule with a tetrahedral shape?": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "109",
+        "randomize": "True"
+      },
+      "What type of reaction is the following chemical formula: Pb(NO3)2 + K2CrO4 -> PbCrO4 + 2KNO3? (Don't misspell!)": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Double replacement",
+        "randomize": "True"
+      },
+      "When an atom/ion loses electrons it is a(n)_____ (think LEO/GER or OIL/RIG)?": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Oxidation",
+        "randomize": "True"
+      },
+      "What is the nomenclature of the following acidic compound: H2SO4?": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Sulfuric acid",
+        "randomize": "True"
+      },
+      "What is the nomenclature of the following compound: K2S?": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Potassium Sulfide",
+        "randomize": "True"
+      },
+      "What is the nomenclature of the following compound: AsCl3?": {
+        "unit": "3",
+        "type": "FRQ",
+        "options": [],
+        "answer": "Arsenic trichloride",
+        "randomize": "True"
+      },
+      "Of the following, which is not a part of the 6 types of reactions?": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Decombustion",
+          "Synthesis",
+          "Double Replacement",
+          "Neutralization"
+        ],
+        "answer": "Decombustion",
+        "randomize": "True"
+      },
+      "Which element oxidizes in the following equation: Li + KCl -> K + LiCl": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "K",
+          "Cl",
+          "Li",
+          "None of them"
+        ],
+        "answer": "Li",
+        "randomize": "True"
+      },
+      "In an activity series, a metal can only be switched with another metal if it is ____ it on the list.": {
+        "unit": "3",
+        "type": "MCQ",
+        "options": [
+          "Above",
+          "Below",
+          "Equal",
+          "Above & Equal"
+        ],
+        "answer": "Above & Equal",
+        "randomize": "True"
+      }
+    }
+}
